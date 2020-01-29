@@ -44,7 +44,9 @@ $ flink run build/libs/flink-jar --input AbsolutePath --output AbsolutePath
     Job Runtime: 237 ms
 
 We can see on Flink Dashboard localhost:8081
-![Optional Text](../master/myFolder/image1.png)
-![Optional Text](../master/myFolder/image2.png)
+
+![Optional Text](/image/image1.png)
+
+![Optional Text](/image/image2.png)
 
 
